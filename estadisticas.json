@@ -1,0 +1,8 @@
+{
+    "Maquina": {
+        "Ganado": 0,
+        "Empatado": 0,
+        "Perdido": 0,
+        "Puntuacion": 0
+    }
+}
